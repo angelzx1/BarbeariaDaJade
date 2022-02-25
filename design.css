@@ -1,0 +1,56 @@
+body{
+    background-color: #222;
+}
+.header-container{
+    background-color: MediumSpringGreen;
+    padding:14px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    font-size: 37px;
+}
+.foto{
+    width: 250px;
+    height: 160px;
+    border-radius: 60px;
+}
+h1{
+    text-align: center;
+}
+icone1{
+    width: 20px;
+    height: 30px;
+}
+.flex-container {
+    display: flex;
+    gap: 2px;
+    padding: 0;
+}
+.flex-container1 {
+    display: flex;
+    gap: 2px;
+    padding: 0;
+    margin-left: 150px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin: 90px;
+}
+.recreative{
+    text-align: center;
+}
+.services{
+    text-align: center;
+}
+
+.ppictures{
+    text-align: center;
+}
